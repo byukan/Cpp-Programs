@@ -1,0 +1,11 @@
+﻿Build started 5/6/2015 8:16:00 PM.
+     1>Project "C:\Users\justw\OneDrive\Documents\PIC 10C\hw6\hw6\hw6.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt hw6.cpp
+         hw6.cpp
+     1>c:\users\justw\onedrive\documents\pic 10c\hw6\hw6\hw6.cpp(54): error C2143: syntax error : missing ';' before 'return'
+     1>Done Building Project "C:\Users\justw\OneDrive\Documents\PIC 10C\hw6\hw6\hw6.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.76
