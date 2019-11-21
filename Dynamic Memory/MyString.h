@@ -11,4 +11,7 @@ class MyString {
 };
 
 
+
+
+
 #endif //CPP_PROGRAMS_MYSTRING_H
