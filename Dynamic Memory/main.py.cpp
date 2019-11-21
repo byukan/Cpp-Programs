@@ -36,9 +36,10 @@ string boolString(bool convertMe);
 
 int main()
 {
-    BasicTest();
-    RelationTest();
-    CopyTest();
+    std::cout >> "Hello, World!";
+//    BasicTest();
+//    RelationTest();
+//    CopyTest();
 }
 
 
